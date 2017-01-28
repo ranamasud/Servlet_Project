@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" 
+	xmlns="http://java.sun.com/xml/ns/j2ee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee 
+	http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LogServlet</servlet-name>
+    <servlet-class>Servlet.LogServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>InsertServlet</servlet-name>
+    <servlet-class>Servlet.InsertServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DelServlet</servlet-name>
+    <servlet-class>Servlet.DelServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpServlet</servlet-name>
+    <servlet-class>Servlet.UpServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>up2Servlet</servlet-name>
+    <servlet-class>Servlet.up2Servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ReadServlet</servlet-name>
+    <servlet-class>Servlet.ReadServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TServlet</servlet-name>
+    <servlet-class>Servlet.TServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TReadServlet</servlet-name>
+    <servlet-class>Servlet.TReadServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>S2</servlet-name>
+    <servlet-class>Servlet.S2</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UP1STU</servlet-name>
+    <servlet-class>Servlet.UP1STU</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>InsertTEACHER</servlet-name>
+    <servlet-class>Servlet.InsertTEACHER</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>READTEACHERS</servlet-name>
+    <servlet-class>Servlet.READTEACHERS</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ReadSIR</servlet-name>
+    <servlet-class>Servlet.ReadSIR</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>READSR</servlet-name>
+    <servlet-class>Servlet.READSR</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>COLICS</servlet-name>
+    <servlet-class>Servlet.COLICS</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PERFORMANCE</servlet-name>
+    <servlet-class>Servlet.PERFORMANCE</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NUMBER</servlet-name>
+    <servlet-class>Servlet.NUMBER</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NUM</servlet-name>
+    <servlet-class>NUM</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PERFORMANCE2</servlet-name>
+    <servlet-class>Servlet.PERFORMANCE2</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PROPORTION</servlet-name>
+    <servlet-class>Servlet.PROPORTION</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PERDEPT_TEACHER</servlet-name>
+    <servlet-class>Servlet.PERDEPT_TEACHER</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PER_DEPT_STUDENT</servlet-name>
+    <servlet-class>Servlet.PER_DEPT_STUDENT</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PER_DEPT_PERFORMANCE</servlet-name>
+    <servlet-class>Servlet.PER_DEPT_PERFORMANCE</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NewMember</servlet-name>
+    <servlet-class>Servlet.NewMember</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>campus</servlet-name>
+    <servlet-class>Servlet.campus</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>LogServlet</servlet-name>
+    <url-pattern>/LogServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>InsertServlet</servlet-name>
+    <url-pattern>/InsertServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DelServlet</servlet-name>
+    <url-pattern>/DelServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpServlet</servlet-name>
+    <url-pattern>/UpServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>up2Servlet</servlet-name>
+    <url-pattern>/up2Servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ReadServlet</servlet-name>
+    <url-pattern>/ReadServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TServlet</servlet-name>
+    <url-pattern>/TServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TReadServlet</servlet-name>
+    <url-pattern>/TReadServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>S2</servlet-name>
+    <url-pattern>/S2</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UP1STU</servlet-name>
+    <url-pattern>/UP1STU</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>InsertTEACHER</servlet-name>
+    <url-pattern>/InsertTEACHER</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>READTEACHERS</servlet-name>
+    <url-pattern>/READTEACHERS</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ReadSIR</servlet-name>
+    <url-pattern>/ReadSIR</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>READSR</servlet-name>
+    <url-pattern>/READSR</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>COLICS</servlet-name>
+    <url-pattern>/COLICS</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PERFORMANCE</servlet-name>
+    <url-pattern>/PERFORMANCE</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NUMBER</servlet-name>
+    <url-pattern>/NUMBER</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NUM</servlet-name>
+    <url-pattern>/NUM</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PERFORMANCE2</servlet-name>
+    <url-pattern>/PERFORMANCE2</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PROPORTION</servlet-name>
+    <url-pattern>/PROPORTION</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PERDEPT_TEACHER</servlet-name>
+    <url-pattern>/PERDEPT_TEACHER</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PER_DEPT_STUDENT</servlet-name>
+    <url-pattern>/PER_DEPT_STUDENT</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PER_DEPT_PERFORMANCE</servlet-name>
+    <url-pattern>/PER_DEPT_PERFORMANCE</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NewMember</servlet-name>
+    <url-pattern>/NewMember</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>campus</servlet-name>
+    <url-pattern>/campus</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
